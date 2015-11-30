@@ -1,11 +1,11 @@
 #!/bin/sh
 ## create_repo.sh for create_repo.sh in /home/kyrios/GitHub/Epitech-create_repo
 ## 
-## Made by 
-## Login   <kyrios@epitech.net>
+## Made by FERDINAND Kévin
+## Login   <kevin.ferdinand@epitech.eu>
 ## 
 ## Started on  Mon Nov 30 17:29:35 2015 
-## Last update Mon Nov 30 17:29:45 2015 
+## Last update Mon Nov 30 17:41:08 2015 
 ##
 
 vert='\e[32m'
