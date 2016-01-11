@@ -55,7 +55,7 @@ fi
 cd $nomrepo
 
 echo ""
-echo -e -n "${vert}Projet infographie [y/N] ?${neutre}"
+echo -e -n "${vert}Projet infographie [y/N] ? ${neutre}"
 read info
 if [ "$info" = "N" ]
 then
