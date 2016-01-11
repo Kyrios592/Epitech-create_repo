@@ -70,9 +70,9 @@ if [ "$info" = "y" ]
 then
 	echo ""
 	echo -e -n "${vert}Mise en place Makefile et fonction infographie ${neutre}"
-	cp ~/bin/src/.gitignore .
+	cp ~/bin/src_info/.gitignore .
 	mkdir src
-	cp -r ~/bin/src_info/src ./src/
+	cp ~/bin/src_info/src/* ./src/
 	cp ~/bin/src_info/Makefile .
 	mkdir include
 	cp ~/bin/src_info/info.h ./include/
